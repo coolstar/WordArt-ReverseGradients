@@ -1,0 +1,10 @@
+Package: org.coolstar.wordart-revgradients
+Name: WordArt + ReverseGradients
+Description: A minimal theme to fix iOS 7+'s icons using a combination of WordArt and Reverse Gradient icons
+Depends: com.anemonetheming.anemone, org.coolstar.circleicons, org.coolstar.modernbadges
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Author: CoolStar <coolstarorganization@gmail.com>
+Section: Themes
+
